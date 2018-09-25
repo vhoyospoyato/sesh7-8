@@ -1,9 +1,9 @@
-string = "example"
+str = "example"
 
-    index = len(string)-1
+    index = len(str)-1
 
     while index >= 0 :
 
-        print(string[index])
+        print(str[index])
 
         index = index - 1
