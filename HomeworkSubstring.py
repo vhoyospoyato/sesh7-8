@@ -24,5 +24,5 @@ for i in range(0, len(s)-1):
     if len(subs) > len(smax):
         smax = subs
 
-print("This are the letters that follow the longest alphabetical order from your input: ", smax.split())
+print("This are the letters that follow the longest alphabetical order from your input: ", smax)
 
